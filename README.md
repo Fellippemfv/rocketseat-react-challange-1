@@ -17,11 +17,6 @@
   <a href="https://github.com/Fellippemfv/rocketseat-react-challange-1/commits/master">
   	<img alt="last-commit" src="https://img.shields.io/github/last-commit/Fellippemfv/rocketseat-react-challange-1">
   </a>
-
-  <a href="https://github.com/Fellippemfv/rocketseat-react-challange-1/blob/master/LICENSE">
-  	<img alt="GitHub/licens" src="https://img.shields.io/github/license/Fellippemfv/rocketseat-react-challange-1">
-  </a>
-
 </p>
 
 <p align="center">
@@ -58,8 +53,6 @@ $ npm run dev
 # Clicar no link gerado pelo vite, você será redirecionado para uma nova aba em seu navegador padrão.
 
 ```
-
-
 ## :memo: Licença
 Este projeto está sob a licença do MIT. Veja o [LICENSE](https://github.com/Fellippemfv/rocketseat-react-challange-1/blob/master/LICENSE.md) para mais informação.
 
