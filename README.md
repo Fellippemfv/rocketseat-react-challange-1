@@ -40,7 +40,7 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 
 ## :information_source: Como usar
 
-Para clonar e executar esta aplicação, você precisará do [Git](https://git-scm.com), [Node.js v16.15.0](https://nodejs.org/en/) ou melhor, [Npm v8.5.5](https://www.npmjs.com/) ou melhor e um editor de texto igual ao [VS Code](https://code.visualstudio.com/) instalado em seu computador. Da sua linha de comando:
+Para clonar e executar esta aplicação, você precisará do [Git](https://git-scm.com), [Node.js](https://nodejs.org/en/), [Npm](https://www.npmjs.com/) e um editor de texto igual ao [Vs code](https://code.visualstudio.com/) instalado em seu computador. Na sua linha de comando:
 
 ```bash
 # Clonar este repositório
@@ -50,14 +50,12 @@ $ git clone https://github.com/Fellippemfv/rocketseat-react-challange-1.git
 $ cd rocketseat-react-challange-1
 
 # Instalar dependências
-$ npm i or npm install
+$ npm install
 
-E
-
-# Rodar o servidor com vite
+# Rodar um servidor com vite
 $ npm run dev
 
-# Clicar no link criado pelo vite, você será redirecionado para uma nova aba no navegador padrão
+# Clicar no link gerado pelo vite, você será redirecionado para uma nova aba em seu navegador padrão.
 
 ```
 
