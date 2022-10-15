@@ -1,7 +1,7 @@
 <h1 align="center"> Desafio 01 - To-Do List</h1>
     
 <p align="center">
-    Primeiro desafio de reactJS, realizado no ignite da rocketseat.
+    Primeiro desafio de reactJS, desenvolvemos do zero uma simples lista de tarefas com as opções de criar e apagar um item da lista, além disso ele mostra o número de tarefas criadas e concluidas.
 </p>
 
 <p align="center">
@@ -43,6 +43,6 @@ $ npm run dev
 
 
 ## :memo: License
-This project is under the MIT license. See the [LICENSE](https://github.com/Fellippemfv/rocketseat-react-challange-1/blob/master/LICENSE) for more information.
+This project is under the MIT license. See the [LICENSE](https://github.com/Fellippemfv/rocketseat-react-challange-1/blob/master/LICENSE.md) for more information.
 
 ---
