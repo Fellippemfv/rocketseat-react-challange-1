@@ -1,4 +1,4 @@
-<h1 align="center"> React challange #1 </h1>
+<h1 align="center"> Desafio 01 - To-Do List</h1>
     
 <p align="center">
     Primeiro desafio de reactJS, realizado no ignite da rocketseat.
