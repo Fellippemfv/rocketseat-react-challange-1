@@ -1,48 +1,51 @@
 <h1 align="center"> Desafio 01 - To-Do List</h1>
-    
+<h2 align="center">
+  <img alt="logo" title="logo" src="https://user-images.githubusercontent.com/67835741/195964389-73b2231d-a233-4cbf-9a9a-924e10fa2ba6.png" />
+</h2>
+
 <p align="center">
     Primeiro desafio de reactJS, desenvolvemos do zero uma simples lista de tarefas com as opções de criar e apagar um item da lista, além disso ele mostra o número de tarefas criadas e concluidas.
 </p>
 
 <p align="center">
-  <a href="#rocket-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#information_source-how-to-use">How To Use</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-license">License</a>
+  <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#information_source-como-usar">Como usar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-licença">Licença</a>
 </p>
 
-## :rocket: Technologies
+## :rocket: Tecnologias
 
-This project was developed with the following technologies:
+Este projeto foi desenvolvido com as seguintes tecnologias:
 
 -  [ReactJS](https://pt-br.reactjs.org)
 -  [ViteJS](https://vitejs.dev)
 -  [TypeScript](https://www.typescriptlang.org)
 
-## :information_source: How To Use
+## :information_source: Como usar
 
-To clone and run this application, you'll need [Git](https://git-scm.com), [Node.js v16.15.0](https://nodejs.org/en/) or higher + [Npm v8.5.5](https://www.npmjs.com/) or higher and [VS Code](https://code.visualstudio.com/) installed on your computer. From your command line:
+Para clonar e executar esta aplicação, você precisará do [Git](https://git-scm.com), [Node.js v16.15.0](https://nodejs.org/en/) ou melhor, [Npm v8.5.5](https://www.npmjs.com/) ou melhor e um editor de texto igual ao [VS Code](https://code.visualstudio.com/) instalado em seu computador. Da sua linha de comando:
 
 ```bash
-# Clone this repository
+# Clonar este repositório
 $ git clone https://github.com/Fellippemfv/rocketseat-react-challange-1.git
 
-# Go into the repository
+# Ir até a pasta criada
 $ cd rocketseat-react-challange-1
 
-# Install dependencies
+# Instalar dependências
 $ npm i or npm install
 
-And
+E
 
-# Start server with vite
+# Rodar o servidor com vite
 $ npm run dev
 
-# Click on the link created by vite, you will be redirected to the default browser
+# Clicar no link criado pelo vite, você será redirecionado para uma nova aba no navegador padrão
 
 ```
 
 
-## :memo: License
-This project is under the MIT license. See the [LICENSE](https://github.com/Fellippemfv/rocketseat-react-challange-1/blob/master/LICENSE.md) for more information.
+## :memo: Licença
+Este projeto está sob a licença do MIT. Veja o [LICENSE](https://github.com/Fellippemfv/rocketseat-react-challange-1/blob/master/LICENSE.md) para mais informação.
 
 ---
