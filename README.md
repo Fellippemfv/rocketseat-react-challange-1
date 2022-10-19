@@ -3,8 +3,8 @@
   <img alt="logo" title="logo" src="https://user-images.githubusercontent.com/67835741/195964389-73b2231d-a233-4cbf-9a9a-924e10fa2ba6.png" />
 </h2>
 
-<p align="center">
-    Primeiro desafio de reactJS, desenvolvemos do zero uma simples lista de tarefas com as opções de criar e apagar um item da lista, além disso ele mostra o número de tarefas criadas e concluidas.
+<p align="justify">
+    Primeiro desafio de reactJS, desenvolvemos do zero uma simples lista de tarefas, o chamado "to do", com as opções de criar e apagar um item da lista, além disso ele mostra o número de tarefas criadas e concluidas.
 </p>
 
 <p align="center">
